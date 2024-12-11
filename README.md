@@ -1,13 +1,13 @@
 # nexus_scripts
 ### 如何运行：
-1. 将脚本保存为 `.sh` 文件，例如 `start_containers.sh`。
+1. 将脚本保存为 `.sh` 文件，例如 `gen.sh`。
 2. 赋予执行权限：
    ```bash
-   chmod +x start_containers.sh
+   chmod +x gen.sh
    ```
 3. 运行脚本：
    ```bash
-   ./start_containers.sh
+   ./gen.sh
    ```
 
 ### 示例：
